@@ -15,12 +15,10 @@ This project systematically investigates how **Principal Component Analysis (PCA
 
 ```
 Comparative-Analysis-of-Classification-using-MLP-and-PCA/
-├── 1_EDA_and_Preprocessing.ipynb      # Exploratory data analysis and feature scaling
-├── 2_PCA_Analysis.ipynb               # Variance explained, scree plot, 2D/3D projections
-├── 3_MLP_Baseline.ipynb               # MLP trained on raw features
-├── 4_PCA_MLP_Pipeline.ipynb           # PCA + MLP pipeline with varying components
-├── 5_Comparison_and_Visualization.ipynb # Side-by-side results, plots, and conclusions
-└── data/                              # Dataset files
+│
+├── code.ipynb                 # Complete implementation of preprocessing, PCA, MLP, and evaluation
+├── MLP and PCA.pdf            # Project report
+├── README.md                  # Project documentation
 ```
 
 ---
