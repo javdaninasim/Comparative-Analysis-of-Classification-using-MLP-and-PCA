@@ -238,9 +238,6 @@ See **`MLP and PCA.pdf`** for:
 | **Focus** | Dimensionality Reduction & Classification |
 | **Datasets** | Multiple benchmark datasets |
 | **Report** | Included as PDF |
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=100&section=footer" width="100%"/>
 </div>
