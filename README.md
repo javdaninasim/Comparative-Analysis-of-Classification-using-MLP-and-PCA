@@ -228,7 +228,7 @@ See **`MLP and PCA.pdf`** for:
 
 ---
 
-### 📞 Project Information
+### ℹ️ Project Information
 
 | Detail | Information |
 | :--- | :--- |
@@ -238,16 +238,6 @@ See **`MLP and PCA.pdf`** for:
 | **Focus** | Dimensionality Reduction & Classification |
 | **Datasets** | Multiple benchmark datasets |
 | **Report** | Included as PDF |
-
----
-
-### 📜 License & Attribution
-
-This repository contains research and analysis from **Sharif University of Technology**.
-
-**Author:** Nasim Javdani  
-**GitHub:** [@javdaninasim](https://github.com/javdaninasim)  
-**LinkedIn:** [Nasim Javdani](https://linkedin.com/in/nasim-javdani-810a9932a)
 
 ---
 
