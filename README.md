@@ -137,26 +137,6 @@ Comparative-Analysis-of-Classification-using-MLP-and-PCA/
 
 ---
 
-### 🚀 Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/javdaninasim/Comparative-Analysis-of-Classification-using-MLP-and-PCA.git
-cd Comparative-Analysis-of-Classification-using-MLP-and-PCA
-
-# 2. Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install numpy pandas scikit-learn torch matplotlib seaborn jupyter
-
-# 4. Open and run the notebook
-jupyter notebook code.ipynb
-```
-
----
-
 ### 📖 Notebook Structure
 
 **`code.ipynb`** contains:
